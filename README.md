@@ -4,5 +4,5 @@
 
 
 ```
-This is the first version of the project. 
+This is the first version of the project.
 ```
